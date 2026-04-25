@@ -1,0 +1,3 @@
+Time: 0.01 s
+Frequency: 134.650 MHz
+Transcript: nine nine five

@@ -1,0 +1,3 @@
+Time: 0.03 s
+Frequency: 135.660 MHz
+Transcript: Noise detected (no speech)

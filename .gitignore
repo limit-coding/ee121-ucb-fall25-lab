@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+
+# Large reference bundle exceeds GitHub's normal file-size limits.
+reference/Software_Defined_Radio_using_MATLAB_Simulink_and_the_RTL-SDR_book_and_support_files.zip
+reference/Software_Defined_Radio_using_MATLAB_Simulink_and_the_RTL-SDR_book_and_support_files/

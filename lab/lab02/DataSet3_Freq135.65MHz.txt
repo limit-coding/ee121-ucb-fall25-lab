@@ -1,0 +1,3 @@
+Time: 0.01 s
+Frequency: 135.650 MHz
+Transcript: 170 knots, that's 21.66. Dump a adder above 4,000 and cleared ILS 28-Ride approach and 180 knots for 9.5.
